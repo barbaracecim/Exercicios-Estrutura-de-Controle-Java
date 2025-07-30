@@ -1,11 +1,10 @@
 
----
+
 
 ### **Comandos para criar o README e enviar tudo para o GitHub**
 
 No **Git Bash**, dentro da pasta dos exercícios, rode:
 
-```bash
 # Inicializa o Git (caso ainda não tenha feito)
 git init
 
